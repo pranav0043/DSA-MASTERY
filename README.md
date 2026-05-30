@@ -67,15 +67,14 @@ my-dsa-notes/
 
 ### Sorting — Complexity Table
 
-| Algorithm      | Best       | Worst      | Stable |
-|----------------|------------|------------|--------|
-| Bubble Sort    | O(n)       | O(n²)      | ✅     |
-| Selection Sort | O(n²)      | O(n²)      | ❌     |
-| Insertion Sort | O(n)       | O(n²)      | ✅     |
-| Merge Sort     | O(n log n) | O(n log n) | ✅     |
-| Quick Sort     | O(n log n) | O(n²)      | ❌     |
-| Heap Sort      | O(n log n) | O(n log n) | ❌     |
-
+| Algorithm      | Best       | Worst      |  
+|----------------|------------|------------|
+| Bubble Sort    | O(n)       | O(n²)      |      
+| Selection Sort | O(n²)      | O(n²)      |     
+| Insertion Sort | O(n)       | O(n²)      |   
+| Merge Sort     | O(n log n) | O(n log n) |   
+| Quick Sort     | O(n log n) | O(n²)      |     
+| Heap Sort      | O(n log n) | O(n log n) | 
 ### Searching
 - Linear: O(n) | Binary: O(log n) — sorted array only
 - 📝 *Binary search on answer — important advanced trick*

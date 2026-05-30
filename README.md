@@ -92,10 +92,6 @@ my-dsa-notes/
 - Activity Selection, Fractional Knapsack, Huffman Coding
 - 📝 *Justify why greedy works — don't just assume*
 
-### Trie
-- Insert/Search: O(L) where L = word length
-- Uses: Autocomplete, Spell check
-
 ---
 
 ## ✅ My Progress
@@ -112,8 +108,6 @@ my-dsa-notes/
 - [ ] Searching
 - [ ] Recursion & Backtracking
 - [ ] Dynamic Programming
-- [ ] Greedy
-- [ ] Trie
 
 
 ---
